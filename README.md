@@ -73,6 +73,7 @@ List of Web Browsers:
 - Google Chrome
 - Mozilla Firefox
 - Mozilla Firefox Nightly
+- Microsoft Edge
 
 ([TOC](#table-of-contents))
 
@@ -205,6 +206,7 @@ List of Web Browsers:
 - [@jelmansouri](https://github.com/jelmansouri) for adding in Ghostty's bundle ID
 - [@comigor](https://github.com/comigor) for adding in Zed's bundle ID
 - [@austenstone](https://github.com/austenstone) for broadening VSCode exception to include Insiders and other variants
+- [@martijnvankekem](https://github.com/martijnvankekem) for adding Microsoft Edge to the list of web browsers.
 
 ([TOC](#table-of-contents))
 
