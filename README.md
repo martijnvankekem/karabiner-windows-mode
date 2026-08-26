@@ -25,7 +25,7 @@ If you'd like to contribute to this project, please check the [Contributing](#co
 Copy and paste the following URL into your browser window and Karabiner-Elements *should* ask to install the file:
 
 ```none
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/rux616/karabiner-windows-mode/main/json/windows_shortcuts.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/martijnvankekem/karabiner-windows-mode/main/json/windows_shortcuts.json
 ```
 
 ([TOC](#table-of-contents))
